@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">GymMVVM</string>
+    <string name="list_activity_label">List of exercises</string>
+    <string name="detail_activity_label">Details</string>
+    <string name="image_of_exercise">Image of exercise</string>
+    <string name="description">Description</string>
+    <string name="equipment">Equipment</string>
+    <string name="muscles">Muscles</string>
+    <string name="muscles_secondary">Muscles secondary</string>
 </resources>
